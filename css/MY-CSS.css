@@ -1,0 +1,70 @@
+/* CLASS HAYI KE MIKHAY RO EZAFE KON
+
+    - HAMISHE ( MAIN , SECOND , THIRD )
+
+    .mycolorMAIN 
+    .mybgcolorSECOND
+    .myfontTHIRD
+
+*/
+
+/* */
+:root {
+  --firstColor: #353535 !important;
+  --secondColor: #3c6e71 !important;
+  --thirdColor: #38a3a5 !important;
+  --forthColor: #80ed99 !important;
+  --fifthColor: #284b63 !important;
+  --sixthColor: #c7f9cc !important;
+  --seventhColor: #13dead !important;
+  --eighthColor: #222222 !important;
+  --firstFont: "Comfortaa", cursive !important;
+  --secondFont: "Courgette", cursive !important;
+  --eightFontSize : 1rem !important;
+  --fifthFontSize : 1vw !important;
+  --firstFontSize: 7vw !important;
+  --tenthFontSize: 6vw !important;
+  --secondFontSize: 2vw !important;
+  --ninthFontSize: 3vw !important;
+  --seventhFontSize : 2rem !important;
+  --eleventhFontSize : 1.8vw !important;
+  --thirdFontSize: 1.5vw !important;
+  --forthFontSize: 1.2vw !important;
+  --underlineHeight: 3px !important;
+}
+
+/* */
+
+/* FONTS */
+
+.myhide {
+  display: none;
+}
+
+.myfontsize1 {
+  font-size: 1rem !important;
+}
+
+.myfontsize1-25 {
+  font-size: 1.25rem !important;
+}
+
+.myfontsize1-5 {
+  font-size: 1.5rem !important;
+}
+
+.myfontsize1-75 {
+  font-size: 1.75rem !important;
+}
+
+.myfontsize2 {
+  font-size: 2rem !important;
+}
+
+.myfontsize2-5 {
+  font-size: 2.5rem !important;
+}
+
+.myfontsize3 {
+  font-size: 3rem !important;
+}

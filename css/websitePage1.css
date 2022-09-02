@@ -1,0 +1,24 @@
+.pageText ul {
+    list-style-type :disc !important
+}
+.pageTextHeader{
+    font-size: var(--ninthFontSize);
+    color: var(--firstColor);
+    font-family: var(--firstFont);
+}
+.pageText {
+    color: var(--fifthColor);
+    font-size: var(--eleventhFontSize);
+    font-family: var(--firstFont);
+}
+.pageTextLink {
+    color: var(--thirdColor);
+    font-size: var(--forthFontSize);
+    font-family: var(--firstFont);
+}
+.pageTextLink a {
+    text-decoration: underline;
+}
+.pageTextLink .fa-solid{
+    color: var(--seventhColor);
+} 

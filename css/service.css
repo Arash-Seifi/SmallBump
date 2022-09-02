@@ -1,0 +1,140 @@
+#heroBox-contact-container:hover .heroBox-contact-animation-overlay2 {
+  left: 0 !important;
+  margin-left: 0 !important;
+  transition: left 300ms ease-out !important;
+}
+
+.heroBox-contact-animation2 {
+  position: relative;
+  overflow: hidden;
+  width: 70px;
+  display: inline-block;
+  height: 3px;
+}
+.heroBox-contact-animation-overlay2 {
+  position: absolute;
+  width: 70px;
+  left: -200px;
+  margin-left: 380px;
+  bottom: 0;
+  background-color: var(--secondColor);
+  height: 7px;
+  transition: left 300ms linear, margin-left 300ms ease-out;
+}
+.heroBox-text span {
+  font-size: var(--firstFontSize);
+  font-family: var(--firstFont);
+  font-weight: bold;
+}
+.heroBox-right-text-top {
+  font-family: var(--firstFont);
+  font-size: var(--secondFontSize);
+}
+.heroBox-right-text-bottom {
+  color: var(--thirdColor);
+  font-family: var(--firstFont);
+  font-size: var(--thirdFontSize);
+}
+.heroBox-contact {
+  cursor: pointer;
+  color: var(--fifthColor);
+  font-family: var(--secondFont);
+  font-size: var(--secondFontSize);
+}
+.heroBox-co
+.carousel-cell {
+  width: 66%;
+  height: 200px;
+  margin-right: 10px;
+  background: #8C8;
+  border-radius: 5px;
+  counter-increment: gallery-cell;
+}
+.section1 {
+  background-color: var(--eighthColor);
+  width: 100%;
+  color: white;
+  height: 900px;
+}
+.section1-header-number {
+  font-size: 2.5vw;
+  float: left;
+}
+.section1-number-underline {
+  transition: 3s;
+  width: 0%;
+  height: var(--underlineHeight);
+  background-color: white;
+}
+.section1-number-underline2 {
+  transition: 3s;
+  width: 0%;
+  height: var(--underlineHeight);
+  background-color: white;
+}
+.section1-header-text {
+  font-size: 5vw;
+}
+.section1-text {
+  font-size: var(--secondFontSize);
+  font-family: var(--firstFont);
+  color: var(--sixthColor);
+}
+/*  table */
+table {
+  color: white;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  font-family: var(--firstFont);
+}
+td,
+th {
+  border: none;
+  text-align: left;
+  padding: 8px;
+  text-align: center;
+}
+td > li {
+  font-size: 1.15vw;
+}
+.table-header-underline {
+  margin: 0 auto;
+  width: 0%;
+  transition: 3s ease-in-out;
+  height: var(--underlineHeight);
+  background-color: white;
+}
+.carousel-cell {
+  width: 20%;
+  font-size:2vw;
+  font-family: var(--firstFont);
+  height:4vw;
+  margin-right: 10px;
+  color: black;
+  border-radius: 5px;
+}
+.fa-clock {
+  margin-right:2px;
+}
+/* cell number */
+.carouselCont {
+  background-color:var(--seventhColor)
+}
+.heroBox-right-text-top span {
+  color: grey;
+  font-size: var(--thirdFontSize);
+}
+.heroBox-right-text-bottom .col:first-child {
+  font-size: 1.9rem;
+}
+.heroBox-right-text-bottom .col:last-child {
+  font-size: 1rem;
+  color: var(--firstColor);
+}
+.endText {
+  color: var(--seventhColor);
+  font-family: var(--secondFont);
+  font-size:2rem;
+  text-decoration: underline;
+}
